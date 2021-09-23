@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Egenston
+- 👀 I’m interested in programming and sports
+- 🌱 I’m currently learning Web Development foundations.
+- 📫 How to reach me: telegram - @egenston
