@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Egenston
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning Web Development foundations.
+- 🌱 I’m currently improving my Web Development skills
 - 📫 How to reach me: telegram - @egenston
