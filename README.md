@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Egenston
-- 👀 Working as frontend developer
+- 👀 Frontend developer
 - 👨🏻‍🎓 TU Dortmund student
 - 📫 How to reach me: telegram - @egenston
